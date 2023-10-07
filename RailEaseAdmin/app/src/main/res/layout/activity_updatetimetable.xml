@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lavender"
+    tools:context=".Updatetimetable">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        app:cardCornerRadius="30dp"
+        app:cardElevation="20dp"
+        app:cardBackgroundColor="@color/white"
+        android:layout_centerVertical="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp"
+            android:background="@drawable/lavender_border">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Update Today Schedule"
+                android:textSize="30sp"
+                android:id="@+id/txt"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:textColor="@color/lavender"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/number"
+                android:background="@drawable/lavender_border"
+                android:layout_marginTop="40dp"
+                android:padding="8dp"
+                android:hint="Train Name or Number "
+                android:textColorHint="@color/lavender"
+                android:drawablePadding="8dp"
+                android:textColor="@color/black"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/sstation"
+                android:background="@drawable/lavender_border"
+                android:layout_marginTop="40dp"
+                android:padding="8dp"
+                android:hint="Start Station"
+                android:textColorHint="@color/lavender"
+                android:drawablePadding="8dp"
+                android:textColor="@color/black"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/estation"
+                android:background="@drawable/lavender_border"
+                android:layout_marginTop="40dp"
+                android:padding="8dp"
+                android:hint="End Station"
+                android:textColorHint="@color/lavender"
+                android:drawablePadding="8dp"
+                android:textColor="@color/black"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/time"
+                android:background="@drawable/lavender_border"
+                android:layout_marginTop="40dp"
+                android:padding="8dp"
+                android:hint="Time"
+                android:textColorHint="@color/lavender"
+                android:drawablePadding="8dp"
+                android:textColor="@color/black"/>
+
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="update"
+                android:id="@+id/save"
+                android:textSize="18sp"
+                android:layout_marginTop="35dp"
+                android:background="@drawable/rounded_button"/>
+
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

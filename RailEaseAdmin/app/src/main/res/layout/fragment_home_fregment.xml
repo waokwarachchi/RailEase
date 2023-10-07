@@ -1,0 +1,314 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="409dp"
+    android:layout_height="match_parent"
+    app:layout_editor_absoluteX="1dp"
+    android:fillViewport="true"
+    app:layout_editor_absoluteY="1dp">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white"
+        tools:context=".TrainFragment">
+
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="133dp"
+            android:background="@color/lavender"
+            android:padding="10dp">
+
+
+            <ImageView
+                android:id="@+id/profile"
+                android:layout_width="63dp"
+
+
+                android:layout_height="57dp"
+                android:layout_marginStart="300dp"
+
+                android:src="@drawable/profle_foreground"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.567"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.047" />
+
+
+
+
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <ScrollView
+            android:layout_width="409dp"
+            android:layout_height="match_parent"
+            app:layout_editor_absoluteX="1dp"
+            android:fillViewport="true"
+            app:layout_editor_absoluteY="1dp">
+
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@color/lavender"
+                tools:context=".TravelFragment">
+
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="445dp"
+                    android:layout_height="match_parent">
+
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout3"
+                        android:layout_width="336dp"
+                        android:layout_height="32dp"
+                        android:layout_row="0"
+
+                        android:layout_column="0"
+                        android:layout_marginStart="16dp"
+                        android:layout_marginTop="16dp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent">
+
+
+                    </LinearLayout>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cvCategory3"
+                        android:layout_width="115dp"
+                        android:layout_height="130dp"
+                        android:layout_marginTop="60dp"
+                        android:layout_marginEnd="312dp"
+                        android:background="@drawable/rounded_button"
+                        app:cardBackgroundColor="@color/white"
+
+                        app:cardCornerRadius="20dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.0">
+
+                        <ImageView
+                            android:id="@+id/time"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="60dp"
+                            android:src="@drawable/book" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="80dp"
+                            android:text=" Manage  Time\n        Table"
+                            android:textColor="@color/black"
+                            android:textStyle="bold" />
+
+                        <!--Label-->
+
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cvCategory4"
+                        android:layout_width="115dp"
+                        android:layout_height="130dp"
+                        android:layout_marginTop="60dp"
+                        android:layout_marginEnd="180dp"
+                        app:cardBackgroundColor="@color/white"
+
+                        app:cardCornerRadius="20dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.0">
+
+                        <ImageView
+                            android:id="@+id/price"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="60dp"
+                            android:src="@drawable/price" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="80dp"
+                            android:text="    Ticket Price\n       Enter"
+                            android:textColor="@color/black"
+                            android:textStyle="bold" />
+
+                        <!--Label-->
+
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cvCategory5"
+                        android:layout_width="115dp"
+                        android:layout_height="130dp"
+                        android:layout_marginTop="60dp"
+                        android:layout_marginEnd="48dp"
+                        app:cardBackgroundColor="@color/white"
+
+                        app:cardCornerRadius="20dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.0">
+
+                        <ImageView
+                            android:id="@+id/resort"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="60dp"
+                            android:src="@drawable/r" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="90dp"
+                            android:text="  Train   Resorts\n     Booking"
+                            android:textColor="@color/black"
+                            android:textStyle="bold" />
+
+                        <!--Label-->
+
+
+                    </androidx.cardview.widget.CardView>
+
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cvCategory"
+                        android:layout_width="115dp"
+                        android:layout_height="130dp"
+                        android:layout_marginTop="60dp"
+                        android:layout_marginEnd="312dp"
+                        app:cardBackgroundColor="@color/white"
+
+                        app:cardCornerRadius="20dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.492">
+
+                        <ImageView
+                            android:id="@+id/week"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="60dp"
+                            android:src="@drawable/po" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="80dp"
+                            android:text=" Train Location"
+                            android:textColor="@color/black"
+                            android:textStyle="bold" />
+
+                        <!--Label-->
+
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cvCategory1"
+                        android:layout_width="115dp"
+                        android:layout_height="130dp"
+                        android:layout_marginTop="60dp"
+                        android:layout_marginEnd="48dp"
+                        app:cardBackgroundColor="@color/white"
+
+                        app:cardCornerRadius="20dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.492">
+
+                        <ImageView
+                            android:id="@+id/updatetime"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="60dp"
+                            android:src="@drawable/up" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="90dp"
+                            android:text="       Update\n   time table"
+                            android:textColor="@color/black"
+                            android:textStyle="bold" />
+
+                        <!--Label-->
+
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cvCategory2"
+                        android:layout_width="115dp"
+                        android:layout_height="130dp"
+                        android:layout_marginTop="60dp"
+                        android:layout_marginEnd="180dp"
+                        app:cardBackgroundColor="@color/white"
+
+                        app:cardCornerRadius="20dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.492">
+
+                        <ImageView
+                            android:id="@+id/updateprice"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="60dp"
+                            android:src="@drawable/reload" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="90dp"
+                            android:text="       Update\n   train prices"
+                            android:textColor="@color/black"
+                            android:textStyle="bold" />
+
+                        <!--Label-->
+
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+</ScrollView>

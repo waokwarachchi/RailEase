@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Admin RailEase</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="loging">Login</string>
+    <string name="submit">signup</string>
+    <string name="please_enter_your_email">please Enter Your Email</string>
+    <string name="need_location">Enable GPS SERVICE</string>
+    <string name="location_content">This app wants to change your device settings use GPS,Wi-Fi and cell networks for your location</string>
+    <string name="offline">Offline</string>
+    <string name="online">Online</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <style name="AppTheme.Toolbar" parent="ThemeOverlay.AppCompat.ActionBar" />
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <string-array name="Stations">
+        <item>Select Your Start Station</item>
+        <item>Kurunagala</item>
+        <item>Galle</item>
+        <item>Matara</item>
+        <item>Galgamuwa</item>
+        <item>Nuwaraeliya</item>
+        <item>Colombo Fort</item>
+        <item>Kandy</item>
+        <item>Anurdhapura</item>
+    </string-array>
+    <string-array name="Stationsend">
+        <item>Select Your End Station</item>
+        <item>Kurunagala</item>
+        <item>Galle</item>
+        <item>Matara</item>
+        <item>Galgamuwa</item>
+        <item>Nuwaraeliya</item>
+        <item>Colombo Fort</item>
+        <item>Kandy</item>
+        <item>Anurdhapura</item>
+    </string-array>
+    <string-array name="names">
+        <item>Select from Here</item>
+        <item>Nuwara Eliya Old</item>
+        <item>Nuware Eliya A1</item>
+        <item>Nuwara Eliya B</item>
+        <item>Diyathalawa A</item>
+        <item>Diyathalawa B</item>
+        <item>Bandarawela</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_trackingtrain">Trackingtrain</string>
+</resources>

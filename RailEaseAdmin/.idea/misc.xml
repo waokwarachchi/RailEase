@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/bg_logout.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/bg_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/btn_bg.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/custome_button.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/dialog_bg.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/gray.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/header_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/hed.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/ic_action_addp.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/ic_action_pword.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/ic_add.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/ic_arrow_back_white_24dp.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/ic_baseline_access_time_filled_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/ic_card.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/ic_download.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/ic_email.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/ic_logout.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/ic_notification.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/ic_time.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/input_style.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/jackson.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/outline.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/pri.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/primary.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/profle_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/seacrch_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/vie_bg.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/drawable/white_rectangle_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/font/aclonica.xml" value="0.396875" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_aboutus.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_dahboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_email.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_lgnpg.xml" value="1.0" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_login.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_main_dashboard.xml" value="0.3383152173913043" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_notificationweb.xml" value="0.33" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_path.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_payment3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_price_change.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_priceupdate.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_register.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_resorts2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_signup.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_timetable.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_trackingtrain.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_updatetimetable.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/activity_weektimetable.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/anuradapuratrains.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/app_bar_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/badullatrains.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/bottomsheetlayout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/content_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/forgetpg.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/fragment_gallery.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/fragment_home_fregment.xml" value="0.34375" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/fragment_more_fregment.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/header_background.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/ic_action_regi.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/loadpg.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/logout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/main_nav_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/main_toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/my_selected_item.xml" value="0.23822463768115942" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/layout/nav_header_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/AdminTrainline/app/src/main/res/xml/network_security_config.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
